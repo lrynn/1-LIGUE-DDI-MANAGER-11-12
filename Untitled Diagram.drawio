@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T12:37:28.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="VaZFve1keauizJ7wb81O" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T12:54:55.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="_mAAWZq7dY6PeUEU7syg" version="13.8.1" type="github">
   <diagram id="_BJ7DoBC7gJ5cf4oVVfn" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,12 +87,14 @@
         <mxCell id="KkgqPR74aw9xgw0yIeQL-42" value="메뉴&lt;br&gt;선택" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;sketch=0;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="402" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KkgqPR74aw9xgw0yIeQL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="KkgqPR74aw9xgw0yIeQL-53" target="KkgqPR74aw9xgw0yIeQL-3" edge="1">
+        <mxCell id="KkgqPR74aw9xgw0yIeQL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="KkgqPR74aw9xgw0yIeQL-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="440" />
-              <mxPoint x="90" y="140" />
+              <mxPoint x="90" y="200" />
+              <mxPoint x="380" y="200" />
             </Array>
+            <mxPoint x="400" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KkgqPR74aw9xgw0yIeQL-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="KkgqPR74aw9xgw0yIeQL-53" target="KkgqPR74aw9xgw0yIeQL-61" edge="1">
